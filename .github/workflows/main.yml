@@ -96,6 +96,10 @@ jobs:
             Simscape
             Simscape_Electrical
             Control_System_Toolbox
+            Reinforcement_Learning_Toolbox
+            Powertrain_Blockset
+            Optimization_Toolbox
+            Deep_Learning_Toolbox
 
           cache:
             True
